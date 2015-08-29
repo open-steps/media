@@ -1,0 +1,25 @@
+{
+  "name": "Open Steps media",
+  "version": "0.0.0",
+  "homepage": "http://media.open-steps.org",
+  "authors": [
+    "Open-Steps.org <contact@open-steps.org>"
+  ],
+  "main": "index.html",
+  "keywords": [
+    "videos",
+    "media",
+    "opensteps"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
